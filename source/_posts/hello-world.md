@@ -6,4 +6,10 @@ title: Hello World
 # 博客内容
 
 ## 关于我
-啊实打实大撒大声地飒飒大萨达是
+js太好用了
+
+## 第一个JavaScript代码
+
+```js
+    console.log('HelloWorld')   // HelloWorld
+```
